@@ -1,5 +1,5 @@
 ### Environmental Study
-#### By Jakob Glock
+#### By Jakob Glock
 
 This program explores the use of recursion to draw 3D tree like structures.
 
