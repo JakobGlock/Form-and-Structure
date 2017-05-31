@@ -1,5 +1,5 @@
 ### Microscopic Study
-#### By Jakob Glock
+#### By Jakob Glock
 
 This program explores the use of springs setup in a grid formation to create a cell wall like structure. This program also generates a Voronoi pattern from these points.
 
