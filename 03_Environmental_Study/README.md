@@ -7,13 +7,13 @@ This program explores the use of recursion to draw 3D tree like structures.
 
 You can use the project generator to build this project.
 
-#### Info
+### Info
 
-03_Environmental_Study -
+#### 03_Environmental_Study -
 
 ![Environmental Image](/06_Sample_Images/2.png)
 
-Video Demo [here](https://www.youtube.com/watch?v=oGWQFAbbyvY)
+Video Demo - [here](https://www.youtube.com/watch?v=oGWQFAbbyvY)
 
 #### References
 

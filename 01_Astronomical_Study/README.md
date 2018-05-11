@@ -10,10 +10,10 @@ This project uses the ofxGUI add-on, please include this when building the proje
 
 You can add it by using the project generator.
 
-#### Info
+### Info
 
-01_Astronomical_Study -
+#### 01_Astronomical_Study -
 
 ![Astronomical Image](/06_Sample_Images/0.png)
 
-Video Demo [here](https://www.youtube.com/watch?v=MeMJJnFzkP4)
+Video Demo - [here](https://www.youtube.com/watch?v=MeMJJnFzkP4)

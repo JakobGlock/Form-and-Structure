@@ -9,13 +9,13 @@ This program uses the Add-on 'ofxVoro', please add this to your add-on folder an
 
 As a side note, this project was built and tested with OpenFrameworks 0.9.0, I haven't tested it with the latest version. Its should work, but if not try version 0.9.0
 
-#### Info
+### Info
 
-05_Microscopic_Study -
+#### 05_Microscopic_Study -
 
 ![Microscopic Image](/06_Sample_Images/4.png)
 
-Video Demo [here](https://www.youtube.com/watch?v=eUWbSiGNK18)
+Video Demo - [here](https://www.youtube.com/watch?v=eUWbSiGNK18)
 
 #### References
 
