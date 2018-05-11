@@ -18,19 +18,19 @@ Video Demo - [here](https://www.youtube.com/watch?v=MeMJJnFzkP4)
 
 Video Demo - [here](https://www.youtube.com/watch?v=DlADEU0pMV0)
 
-#### 03_Environmental_Study -
+#### 03_Environmental_Study -
 
 ![Environmental Image](/06_Sample_Images/2.png)
 
 Video Demo - [here](https://www.youtube.com/watch?v=oGWQFAbbyvY)
 
-#### 04_Human_Study -
+#### 04_Human_Study -
 
 ![Human Image](/06_Sample_Images/3.png)
 
 Video Demo - [here](https://www.youtube.com/watch?v=ORhZYU8PE2E)
 
-#### 05_Microscopic_Study -
+#### 05_Microscopic_Study -
 
 ![Microscopic Image](/06_Sample_Images/4.png)
 
