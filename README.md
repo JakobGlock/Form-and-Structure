@@ -12,7 +12,7 @@ You'll need to download and setup [OpenFrameworks](http://openframeworks.cc/down
 
 Video Demo - [here](https://www.youtube.com/watch?v=MeMJJnFzkP4)
 
-#### 02_Planetary_Study -
+#### 02_Planetary_Study -
 
 ![Planetary Image](/06_Sample_Images/1.png)
 
