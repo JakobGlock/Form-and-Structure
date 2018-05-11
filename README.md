@@ -6,7 +6,7 @@ A write up of this project can be found [here](http://doc.gold.ac.uk/compartsblo
 
 You'll need to download and setup [OpenFrameworks](http://openframeworks.cc/download/) to run these projects.
 
-#### 01_Astronomical_Study -
+#### 01_Astronomical_Study -
 
 ![Astronomical Image](/06_Sample_Images/0.png)
 
