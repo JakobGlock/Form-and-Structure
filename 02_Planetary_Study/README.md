@@ -11,6 +11,14 @@ ofxGui is already included with OpenFrameworks, so no need to download anything,
 
 You can find my shader files within the 'bin/data' folder, please include the bin folder in the project folder along with the src folder, before building with the project generator.
 
+#### Info
+
+02_Planetary_Study -
+
+![Planetary Image](/06_Sample_Images/1.png)
+
+Video Demo [here](https://www.youtube.com/watch?v=DlADEU0pMV0)
+
 #### References
 
 [Gaussian blur shader](https://github.com/openframeworks/openFrameworks/blob/master/examples/shader/09_gaussianBlurFilter/bin/data/shadersGL3/shaderBlurX.frag)
